@@ -1,6 +1,4 @@
 
-## About Me
-
 My name is Adam Budd and I am a recent graduate from UNC Chapel Hill with a double major in statistics and economics. I have always had a passion for sports and enjoy analyzing them through the data. This page will be for sharing my projects, visualizations, and findings.
 
 ## Contact
