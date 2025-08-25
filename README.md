@@ -1,12 +1,7 @@
-# Score Science
-
-Welcome to ScoreScience, a sports analytics page that uses data science to dive deeper into the world of sports.
 
 ## About Me
 
-- I am a recent graduate from UNC Chapel Hill with majors in Statistics and Economics.
-- I am passionate about sports and data. Interests include but are not limited to basketball, football, golf, and running.
-- I am starting this page to share my work and the projects I complete.
+My name is Adam Budd and I am a recent graduate from UNC Chapel Hill with a double major in statistics and economics. I have always had a passion for sports and enjoy analyzing them through the data. This page will be for sharing my projects, visualizations, and findings.
 
 ## Contact
 
