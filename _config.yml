@@ -2,4 +2,4 @@ title: Score Science
 description: Projects and analyses
 theme: minima
 header_pages:
--projects.md
+  - projects.md
